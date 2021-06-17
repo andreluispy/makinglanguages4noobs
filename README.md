@@ -7,7 +7,7 @@
 <p align="center">
   <h2 align="center">MakingLanguages4noobs</h2>
 
-  <h1 align="center"><img src="logo.png" width=829 height=200 alt="MakingLanguages4noobs logo" width="120"></h1>
+  <h1 align="center"><img src="logo.png" width="100%" height="100%" alt="MakingLanguages4noobs logo" width="120"></h1>
   
   <p align="center">
     <br />
