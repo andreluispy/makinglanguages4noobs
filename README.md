@@ -26,6 +26,7 @@
 ## ROADMAP
 
 - [1 - Introdução](conteudos/1-introducao/README.md)
+- [2 - Teórico](conteudos/2-teorico/README.md)
 
 ## Como Contribuir
 
