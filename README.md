@@ -25,8 +25,11 @@
 
 ## ROADMAP
 
+ Veja os scripts criados ao longo do curso: [click aqui](testes)
+
 - [1 - Introdução](conteudos/1-introducao/README.md)
 - [2 - Teórico](conteudos/2-teorico/README.md)
+- [2 - Criando Interpretadores](conteudos/3-criando%20interpretador%20pt.1/README.md)
 
 ## Como Contribuir
 
