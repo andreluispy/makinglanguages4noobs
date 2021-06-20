@@ -22,7 +22,7 @@
    - Criando um interpretador pt.1, aqui você cria um interpretador que lê o código e executa
    - Criando um compilador pt.1, Crie um compilador que gere o código C e chame o compilador C para gerar um executável
    - Criando um interpretador pt.2, aqui você criará um mini-interpretador em C como eu lhe prometi
-   - Criando um compilador pt.2, Crie um mini-compilador que gere códigos assembly e chama o nasm(compilador assembly que pode gerar um hello world mais leve que C!). Mas acalme-se, não se assuste com o assembly, apenas por razões experimentais vamos usar o assembly, mas vamos apenas implementar um hello world com o código que darei a você e comparar o executável do assembly com o executável C
+   - Comparação, comparando um compilador para codigo Assembly para um compilador para codigo C
 
 # 5 - E agora?
  E agora você vai ler esta delicinha de repositório e finalmente entender como uma linguagem funciona e criar suas próprias linguagens!

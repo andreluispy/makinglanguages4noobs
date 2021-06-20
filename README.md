@@ -30,6 +30,7 @@
 - [1 - Introdução](conteudos/1-introducao/README.md)
 - [2 - Teórico](conteudos/2-teorico/README.md)
 - [3 - Criando Interpretadores](conteudos/3-criando%20interpretador%20pt.1/README.md)
+- [4 - Criando Compiladores](conteudos/4-criando%20compiladores/README.md)
 
 ## Como Contribuir
 
