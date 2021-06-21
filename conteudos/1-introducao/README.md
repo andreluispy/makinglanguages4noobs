@@ -9,19 +9,18 @@
 # 3 - Que linguagens vamos usar e o que preciso saber?
  
  ## Qual a linguagem?
- Vamos usar Python no início, que não é tão rápido, mas é fácil e podemos ensinar a maioria dos conceitos sem se preocupar com sintaxes mais complexas como C e Java. Mas prometo que implementaremos um mini-interpretador em C.
+ Vamos usar Python no início, que não é tão rápido, mas é fácil e podemos ensinar a maioria dos conceitos sem se preocupar com sintaxes mais complexas como C e Java.
 
  ## O que preciso saber?
  - Claro, o básico de `Python e C` (não se preocupe, python é muito semelhante a C e se você deseja implementar em C certamente se você conhece C será capaz de escrever o código!)
    - Desejável saber como ler arquivos de texto usando a linguagem que você irá implementar
 
 # 4 - O que vou aprender?
- Você aprenderá 4 partes importantes:
+ Você aprenderá 3 partes importantes:
 
    - Teoria, aqui você aprende como funciona uma linguagem
    - Criando um interpretador pt.1, aqui você cria um interpretador que lê o código e executa
    - Criando um compilador pt.1, Crie um compilador que gere o código C e chame o compilador C para gerar um executável
-   - Criando um interpretador pt.2, aqui você criará um mini-interpretador em C como eu lhe prometi
    - Comparação, comparando um compilador para codigo Assembly para um compilador para codigo C
 
 # 5 - E agora?

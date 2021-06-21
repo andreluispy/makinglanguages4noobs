@@ -31,7 +31,7 @@
  - Semântica: O papel do analisador semântico é fornecer métodos pelos quais as estruturas construídas pelo analisador possam ser avaliadas ou executadas. Um exemplo de tarefa do próprio analisador semântico é verificar os tipos de variáveis ​​nas expressões.
 
  O compilador também passa por outras fases que nem sempre são feitas pela maioria das linguagens, mas destaco:
- - Geração de código intermediário: ainda não é o código objeto (assembly ou C), mas sim um código que é fácil de manipular pelo gerador de código objeto
+ - Geração de código intermediário: ainda não é o código objeto(assembly ou C), mas sim um código que é fácil de manipular pelo gerador de código objeto
  - otimização: otimiza o código
  - Geração de código-objeto: aqui o código intermediário finalmente se torna código objeto e o compilador da linguagem que está sendo usada como código-objeto é chamado
 
