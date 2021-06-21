@@ -1,3 +1,5 @@
+#! /bin/python3
+
 # language types
 STRING = "STRING"
 INT = "INT"

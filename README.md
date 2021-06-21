@@ -31,6 +31,7 @@
 - [2 - Teórico](conteudos/2-teorico/README.md)
 - [3 - Criando Interpretadores](conteudos/3-criando%20interpretador%20pt.1/README.md)
 - [4 - Criando Compiladores](conteudos/4-criando%20compiladores/README.md)
+- [5 - C vs Assembly](conteudos/5-Comparacao/README.md)
 
 ## Como Contribuir
 
@@ -45,7 +46,7 @@ são **extremamente apreciadas**
 
 ## Autores
 
-- **André Luís** - IA, Data Science and Compilers Student - [github](https://github.com/andreluispy)
+- **André Luís** - Estudante de IA, Data Science e Compiladores - [github](https://github.com/andreluispy)
 
 ---
 
