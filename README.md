@@ -21,7 +21,7 @@
 </p>
 
 ## Sobre o Projeto
- Aprenda como criar linguagens com um manual onde você aprenderá a lógica por trás de compiladores / interpretadores e criará 2 interpretadores e 2 compiladores
+ Aprenda como criar linguagens com um manual onde você aprenderá a lógica por trás de compiladores / interpretadores e criará 1 interpretador e 1 compilador
 
 ## ROADMAP
 
