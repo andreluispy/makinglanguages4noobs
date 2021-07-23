@@ -21,7 +21,7 @@
  Existem também 2 "variantes" da compilação:
  
  - bytecode: é assim que funciona o python e o java, é uma compilação mas diferente da convencional onde gera código executável pelo sistema operacional, aqui no bytecode o código gerado não é executado pelo seu sistema operacional mas sim por uma "máquina virtual" da linguagem, o que a faz funcionar na maioria dos sistemas evitando bugs
- - Transpilação: é o mesmo processo da compilação, mas normalmente durante a compilação, por exemplo, um código em sua linguagem é convertido para C ou Assembly e o compilador dessa linguagem é chamado. A transpilação não compila e serve apenas como meio de conversão de código, por exemplo, se você tem um hello world em python e deseja transformá-lo em C sem reescrever o hello world em C então você usa a transpilação (isso existe em python e é chamado de Cython, aqui fica uma dica para quem quiser tornar os códigos Python mais rápidos)
+ - Transpilação: é o mesmo processo da compilação, mas compila para uma linguagem de alto nível(tendo em vista que compilação gera um código numa linguagem de baixo nível), por exemplo, se você tem um hello world em python e deseja transformá-lo em C sem reescrever o hello world em C então você usa a transpilação(isso existe em python e é chamado de Cython, aqui fica uma dica para quem quiser tornar os códigos Python mais rápidos)
 
 # 4 - Analise lexica, sintatica e semantica
  O compilador ou interpretador passa por 3 análises importantes:
