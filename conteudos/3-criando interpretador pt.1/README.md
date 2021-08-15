@@ -450,12 +450,12 @@ class interpreter:
             _error = False
             
             if _function == "string":
-                if self.tokens[1].type != STRING:
+                if self.tokens[2].type != STRING:
                     error(self.actual_line, "Esperado tipo STRING")
                 else:
                     pass
             elif _function == "int":
-                if self.tokens[1].type != INT:
+                if self.tokens[2].type != INT:
                     error(self.actual_line, "Esperado tipo INT")
                 else:
                     pass
